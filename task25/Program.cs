@@ -18,5 +18,5 @@ int PowerArray(int a, int b)
     return result;
 }
 int powerArray = PowerArray(a , b);
-Console.WriteLine($"Чило {a} в степени {3} равно " + powerArray);
+Console.WriteLine($"Чило {a} в степени {b} равно " + powerArray);
 
